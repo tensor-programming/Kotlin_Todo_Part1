@@ -2,7 +2,7 @@
 
 ## In this tutorial, we build the data layer of our Todo app in Kotlin and Android. 
 
-### Check out the Youtube Tutorial for this [Kotlin Tutorial]().  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Kotlin Tutorial](https://youtu.be/fxgR46gWMd8).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
